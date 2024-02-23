@@ -1,0 +1,40 @@
+p{
+    text-align: left;
+}
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+#h1{
+  font-weight: bolder;  
+}
+#h2{
+    font-weight: lighter ;
+}
+#h3{
+    font-weight: 400;
+    
+
+}
+#h4{
+    font-weight: bold;
+}
+#one {
+    font-family: Arial ;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+#two {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+#three {
+    font-size: 25px;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+
